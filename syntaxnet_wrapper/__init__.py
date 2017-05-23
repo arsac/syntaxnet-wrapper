@@ -1,7 +1,6 @@
 import yaml
 import os.path as path
 import os.environ as env
-print os.environ['HOME']
 
 # Set configs and paths
 root_dir = env['SYNTAXNET_ROOT_DIR']
